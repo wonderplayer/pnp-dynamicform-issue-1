@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "web-part-1-13-1-client-side-solution",
+    "id": "ddd821da-e58d-4868-b76f-ae0d353384b5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.13.1"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/web-part-1-13-1.sppkg"
+  }
+}
